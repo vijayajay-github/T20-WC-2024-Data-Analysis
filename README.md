@@ -1,7 +1,7 @@
 # overview
 This project analyzes data from the T20 World Cup 2024, providing insights and visualizations on various aspects of the tournament. The aim is to leverage data analysis techniques to uncover trends, patterns, and key statistics that can help understand the dynamics of the tournament.
 
-Features :
+# Features :
 
 Data Collection and Processing:
 
@@ -25,9 +25,6 @@ Used a variety of visual elements like charts, graphs, and slicers for an intuit
 
 
 
-Technologies Used
+# Technologies Used 
 
-
-Tools:
-
-MS Excel, Power BI
+Tools: MS Excel, Power BI
