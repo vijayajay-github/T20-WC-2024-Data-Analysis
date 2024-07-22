@@ -1,5 +1,4 @@
-Overview :
-
+# overview
 This project analyzes data from the T20 World Cup 2024, providing insights and visualizations on various aspects of the tournament. The aim is to leverage data analysis techniques to uncover trends, patterns, and key statistics that can help understand the dynamics of the tournament.
 
 Features :
