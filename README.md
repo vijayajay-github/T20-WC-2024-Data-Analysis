@@ -6,6 +6,8 @@ This project analyzes data from the T20 World Cup 2024, providing insights and v
 
 ![Screenshot 2024-07-22 163316](https://github.com/user-attachments/assets/820a3448-6c75-41a6-8773-37480b20de71)
 
+![Screenshot 2024-07-22 163248](https://github.com/user-attachments/assets/1a5bc0b9-2381-41b3-b95c-0f4e62578d29)
+
 # Features :
 
 Data Collection and Processing:
